@@ -1,0 +1,585 @@
+[
+	{
+		"pos": "noun",
+		"heads": [{ "template_name": "en-noun" }],
+		"forms": [{ "form": "hammerheads", "tags": ["plural"] }],
+		"categories": ["English compound words", "Sharks", "Suckers (fish)"],
+		"sounds": [
+			{ "audio": "En-au-hammerhead.ogg", "tags": ["AU"], "text": "Audio (AU)" }
+		],
+		"word": "hammerhead",
+		"lang": "English",
+		"lang_code": "en",
+		"wikipedia": ["hammerhead"],
+		"translations": [
+			{
+				"lang": "Bulgarian",
+				"code": "bg",
+				"sense": "shark",
+				"word": "\u0430\u043a\u0443\u043b\u0430-\u0447\u0443\u043a",
+				"tags": ["feminine"],
+				"roman": "akula-\u010duk"
+			},
+			{ "lang": "Danish", "code": "da", "sense": "shark", "word": "hammerhaj" },
+			{
+				"lang": "Finnish",
+				"code": "fi",
+				"sense": "shark",
+				"word": "vasarahai"
+			},
+			{
+				"lang": "Galician",
+				"code": "gl",
+				"sense": "shark",
+				"word": "peixe martelo",
+				"tags": ["masculine"]
+			},
+			{
+				"lang": "Ancient Greek",
+				"code": "grc",
+				"sense": "shark",
+				"word": "\u03b6\u03cd\u03b3\u03b1\u03b9\u03bd\u03b1",
+				"tags": ["feminine"],
+				"roman": "z\u00fagaina"
+			},
+			{
+				"lang": "Maori",
+				"code": "mi",
+				"sense": "shark",
+				"word": "mang\u014d pare",
+				"roman": "shark"
+			},
+			{
+				"lang": "Maori",
+				"code": "mi",
+				"sense": "shark",
+				"word": "mang\u014dpare"
+			},
+			{ "lang": "Maori", "code": "mi", "sense": "shark", "word": "kakere" },
+			{
+				"lang": "Navajo",
+				"code": "nv",
+				"sense": "shark",
+				"word": "\u0142\u00f3\u00f3\u02bc hashk\u00e9h\u00e9 bitsii\u02bc dik\u02bc\u00e1n\u00ed"
+			},
+			{
+				"lang": "Norwegian",
+				"code": "no",
+				"sense": "shark",
+				"word": "hammerhai",
+				"tags": ["masculine"]
+			},
+			{
+				"lang": "Polish",
+				"code": "pl",
+				"sense": "shark",
+				"word": "rekin m\u0142ot",
+				"tags": ["masculine"]
+			},
+			{
+				"lang": "Russian",
+				"code": "ru",
+				"sense": "shark",
+				"word": "\u0430\u043a\u0443\u0301\u043b\u0430-\u043c\u043e\u0301\u043b\u043e\u0442",
+				"tags": ["feminine"],
+				"roman": "ak\u00fala-m\u00f3lot"
+			},
+			{
+				"lang": "Russian",
+				"code": "ru",
+				"sense": "shark",
+				"word": "\u0440\u044b\u0301\u0431\u0430-\u043c\u043e\u0301\u043b\u043e\u0442",
+				"tags": ["feminine"],
+				"roman": "r\u00fdba-m\u00f3lot"
+			},
+			{
+				"lang": "Spanish",
+				"code": "es",
+				"sense": "shark",
+				"word": "cornudilla",
+				"tags": ["feminine"]
+			},
+			{
+				"lang": "Vietnamese",
+				"code": "vi",
+				"sense": "shark",
+				"word": "c\u00e1 m\u1eadp \u0111\u1ea7u b\u00faa"
+			}
+		],
+		"synonyms": [
+			{ "word": "hammerhead shark", "sense": "shark" },
+			{ "word": "hammer fish", "sense": "shark" },
+			{ "word": "balance fish", "sense": "shark" }
+		],
+		"senses": [
+			{
+				"glosses": [
+					"The portion of a hammer containing the metal striking face (also including the claw or peen if so equipped)."
+				],
+				"id": "hammerhead-noun-3hrJbSB-"
+			},
+			{
+				"categories": ["Zoology"],
+				"topics": ["zoology"],
+				"glosses": [
+					"Any of various sharks of the genera Sphyrna or Zygaena having the eyes set on projections from the sides of the head, which gives it a hammer shape."
+				],
+				"id": "hammerhead-noun-iHD7oKmf"
+			},
+			{
+				"categories": ["Zoology"],
+				"topics": ["zoology"],
+				"glosses": [
+					"A fresh-water fish; the hogsucker, Hypentelium nigricans, in the sucker family Catostomidae."
+				],
+				"id": "hammerhead-noun-MVOT6ZzX"
+			},
+			{
+				"categories": ["Zoology"],
+				"topics": ["zoology"],
+				"glosses": [
+					"An African fruit bat, the hammer-headed fruit bat, Hypsignathus monstrosus, so called from its large blunt nozzle."
+				],
+				"id": "hammerhead-noun-0bALtG3O"
+			},
+			{
+				"tags": ["slang"],
+				"glosses": ["A stupid person, a dunce."],
+				"id": "hammerhead-noun-mpuYwMjC"
+			},
+			{
+				"glosses": [
+					"A turn-around; a parking area constructed in a subdivision for initial access and construction."
+				],
+				"id": "hammerhead-noun-RH-r3fE2"
+			},
+			{
+				"categories": ["Biology"],
+				"topics": ["biology"],
+				"glosses": ["A kind of ribozyme; hammerhead ribozyme."],
+				"id": "hammerhead-noun-d6iPsKUE"
+			}
+		]
+	},
+	{
+		"pos": "verb",
+		"heads": [{ "template_name": "en-verb" }],
+		"forms": [
+			{
+				"form": "unmasks",
+				"tags": ["present", "simple", "singular", "third-person"]
+			},
+			{ "form": "unmasking", "tags": ["participle", "present"] },
+			{ "form": "unmasked", "tags": ["past", "simple"] },
+			{ "form": "unmasked", "tags": ["participle", "past"] }
+		],
+		"word": "unmask",
+		"lang": "English",
+		"lang_code": "en",
+		"sounds": [
+			{ "ipa": "/\u028cn\u02c8m\u00e6sk/", "tags": ["UK"] },
+			{ "ipa": "/\u028cn\u02c8m\u0251\u02d0sk/", "tags": ["UK"] },
+			{ "ipa": "/\u028cn\u02c8m\u00e6sk/", "tags": ["US"] },
+			{ "rhymes": "-\u00e6sk" },
+			{ "audio": "en-au-unmask.ogg", "tags": ["AU"], "text": "Audio (AU)" }
+		],
+		"translations": [
+			{
+				"lang": "Armenian",
+				"code": "hy",
+				"sense": "to expose the true character of someone",
+				"word": "\u0564\u056b\u0574\u0561\u056f\u0561\u0566\u0565\u0580\u056e\u0565\u056c",
+				"roman": "dimakazercel"
+			},
+			{
+				"lang": "Catalan",
+				"code": "ca",
+				"sense": "to expose the true character of someone",
+				"word": "desemmarcar"
+			},
+			{
+				"lang": "Esperanto",
+				"code": "eo",
+				"sense": "to expose the true character of someone",
+				"word": "senmaskigi"
+			},
+			{
+				"lang": "Finnish",
+				"code": "fi",
+				"sense": "to expose the true character of someone",
+				"word": "paljastaa"
+			},
+			{
+				"lang": "French",
+				"code": "fr",
+				"sense": "to expose the true character of someone",
+				"word": "r\u00e9v\u00e9ler"
+			},
+			{
+				"lang": "French",
+				"code": "fr",
+				"sense": "to expose the true character of someone",
+				"word": "d\u00e9voiler"
+			},
+			{
+				"lang": "French",
+				"code": "fr",
+				"sense": "to expose the true character of someone",
+				"word": "d\u00e9masquer"
+			},
+			{
+				"lang": "Italian",
+				"code": "it",
+				"sense": "to expose the true character of someone",
+				"word": "smascherare"
+			},
+			{
+				"lang": "Italian",
+				"code": "it",
+				"sense": "to expose the true character of someone",
+				"word": "palesare"
+			},
+			{
+				"lang": "Italian",
+				"code": "it",
+				"sense": "to expose the true character of someone",
+				"word": "scoprire"
+			},
+			{
+				"lang": "Polish",
+				"code": "pl",
+				"sense": "to expose the true character of someone",
+				"word": "zrzuci\u0107 mask\u0119",
+				"tags": ["perfective"]
+			},
+			{
+				"lang": "Serbo-Croatian",
+				"code": "sh",
+				"sense": "to expose the true character of someone",
+				"word": "raskrinkati"
+			},
+			{
+				"lang": "Spanish",
+				"code": "es",
+				"sense": "to expose the true character of someone",
+				"word": "descubrir"
+			},
+			{
+				"lang": "Spanish",
+				"code": "es",
+				"sense": "to expose the true character of someone",
+				"word": "revelar"
+			},
+			{
+				"lang": "Spanish",
+				"code": "es",
+				"sense": "to expose the true character of someone",
+				"word": "demostrar"
+			},
+			{
+				"lang": "Swedish",
+				"code": "sv",
+				"sense": "to expose the true character of someone",
+				"word": "avmaskera"
+			},
+			{
+				"lang": "Welsh",
+				"code": "cy",
+				"sense": "to expose the true character of someone",
+				"word": "datguddio"
+			},
+			{
+				"lang": "Dutch",
+				"code": "nl",
+				"word": "^ ontmaskeren",
+				"roman": "(please verify)"
+			}
+		],
+		"senses": [
+			{
+				"tags": ["transitive"],
+				"glosses": ["To remove a mask from someone."],
+				"translations": [
+					{
+						"lang": "Catalan",
+						"code": "ca",
+						"sense": "to remove a mask from someone",
+						"word": "desemmarcar"
+					},
+					{
+						"lang": "Esperanto",
+						"code": "eo",
+						"sense": "to remove a mask from someone",
+						"word": "senmaskigi"
+					},
+					{
+						"lang": "Finnish",
+						"code": "fi",
+						"sense": "to remove a mask from someone",
+						"word": "paljastaa"
+					},
+					{
+						"lang": "French",
+						"code": "fr",
+						"sense": "to remove a mask from someone",
+						"word": "d\u00e9masquer"
+					},
+					{
+						"lang": "Italian",
+						"code": "it",
+						"sense": "to remove a mask from someone",
+						"word": "smascherare"
+					},
+					{
+						"lang": "Polish",
+						"code": "pl",
+						"sense": "to remove a mask from someone",
+						"word": "zrzuci\u0107 mask\u0119",
+						"tags": ["perfective"]
+					},
+					{
+						"lang": "Serbo-Croatian",
+						"code": "sh",
+						"sense": "to remove a mask from someone",
+						"word": "raskrinkati"
+					},
+					{
+						"lang": "Spanish",
+						"code": "es",
+						"sense": "to remove a mask from someone",
+						"word": "desenmascarar"
+					},
+					{
+						"lang": "Swedish",
+						"code": "sv",
+						"sense": "to remove a mask from someone",
+						"word": "avmaskera"
+					},
+					{
+						"lang": "Turkish",
+						"code": "tr",
+						"sense": "to remove a mask from someone",
+						"word": "Birisinin maskesini d\u00fc\u015f\u00fcrmek"
+					},
+					{
+						"lang": "Welsh",
+						"code": "cy",
+						"sense": "to remove a mask from someone",
+						"word": "tynnu masg"
+					}
+				],
+				"id": "unmask-verb-uWUrTHqG"
+			},
+			{
+				"tags": ["transitive"],
+				"glosses": ["To expose, or reveal the true character of someone."],
+				"id": "unmask-verb-wd4L1PSs"
+			},
+			{
+				"tags": ["intransitive"],
+				"glosses": ["To remove one's mask."],
+				"translations": [
+					{
+						"lang": "Catalan",
+						"code": "ca",
+						"sense": "to remove one's mask",
+						"word": "desemmarcar-se"
+					},
+					{
+						"lang": "Esperanto",
+						"code": "eo",
+						"sense": "to remove one's mask",
+						"word": "senmaski\u011di"
+					},
+					{
+						"lang": "Finnish",
+						"code": "fi",
+						"sense": "to remove one's mask",
+						"word": "paljastaa",
+						"roman": "kasvonsa"
+					},
+					{
+						"lang": "French",
+						"code": "fr",
+						"sense": "to remove one's mask",
+						"word": "se d\u00e9masquer"
+					},
+					{
+						"lang": "Italian",
+						"code": "it",
+						"sense": "to remove one's mask",
+						"word": "smascherarsi"
+					},
+					{
+						"lang": "Polish",
+						"code": "pl",
+						"sense": "to remove one's mask",
+						"word": "zrzuci\u0107 mask\u0119",
+						"tags": ["perfective"]
+					},
+					{
+						"lang": "Spanish",
+						"code": "es",
+						"sense": "to remove one's mask",
+						"word": "desenmascararse"
+					},
+					{
+						"lang": "Swedish",
+						"code": "sv",
+						"sense": "to remove one's mask",
+						"word": "ta av sin mask"
+					},
+					{
+						"lang": "Turkish",
+						"code": "tr",
+						"sense": "to remove one's mask",
+						"word": "Birisinin maskesini d\u00fc\u015f\u00fcrmek"
+					},
+					{
+						"lang": "Welsh",
+						"code": "cy",
+						"sense": "to remove one's mask",
+						"word": "tynnu masg"
+					}
+				],
+				"id": "unmask-verb-rAxDJdej"
+			},
+			{
+				"categories": ["Computing"],
+				"tags": ["transitive"],
+				"topics": ["computing"],
+				"glosses": [
+					"To enable (an interrupt, etc.) by unsetting or setting the associated bit."
+				],
+				"id": "unmask-verb-zJ8PfTdS"
+			}
+		]
+	},
+	{
+		"pos": "verb",
+		"heads": [{ "template_name": "en-verb" }],
+		"forms": [
+			{
+				"form": "upcurls",
+				"tags": ["present", "simple", "singular", "third-person"]
+			},
+			{ "form": "upcurling", "tags": ["participle", "present"] },
+			{ "form": "upcurled", "tags": ["past", "simple"] },
+			{ "form": "upcurled", "tags": ["participle", "past"] }
+		],
+		"word": "upcurl",
+		"lang": "English",
+		"lang_code": "en",
+		"senses": [
+			{
+				"tags": ["rare", "transitive"],
+				"glosses": ["To curl up"],
+				"translations": [
+					{
+						"lang": "Dutch",
+						"code": "nl",
+						"sense": "curl up",
+						"word": "krullen"
+					}
+				],
+				"id": "upcurl-verb"
+			}
+		]
+	},
+	{
+		"pos": "noun",
+		"heads": [{ "template_name": "en-noun" }],
+		"forms": [{ "form": "zymurgies", "tags": ["plural"] }],
+		"word": "zymurgy",
+		"lang": "English",
+		"lang_code": "en",
+		"senses": [
+			{
+				"glosses": [
+					"The chemistry of fermentation with yeasts, especially the science involved in beer and winemaking."
+				],
+				"derived": [
+					{ "word": "zymurgic" },
+					{ "word": "zymurgical" },
+					{ "word": "zymurgist" }
+				],
+				"related": [{ "word": "zythepsary" }],
+				"categories": ["Beer", "Zymurgy"],
+				"id": "zymurgy-noun"
+			}
+		]
+	},
+	{
+		"pos": "name",
+		"heads": [{ "template_name": "en-proper noun" }],
+		"wikipedia": ["Aci Castello", "Willem Blaeu"],
+		"sounds": [
+			{
+				"ipa": "/\u02c8\u0254\u02d0.\u0279\u026a.\u0259nt/",
+				"tags": ["Received Pronunciation"]
+			},
+			{
+				"ipa": "/\u02c8\u0254.\u0279i.\u0259nt/",
+				"tags": ["General American"]
+			},
+			{ "ipa": "/\u02c8\u0252.\u0279\u026a-/", "tags": ["General American"] },
+			{ "audio": "En-uk-orient.oga", "tags": ["RP"], "text": "Audio (RP)" }
+		],
+		"hyphenation": ["or\u2027i\u2027ent"],
+		"categories": ["American English"],
+		"word": "orient",
+		"lang": "English",
+		"lang_code": "en",
+		"senses": [
+			{
+				"glosses": [
+					"Usually preceded by the: alternative letter-case form of Orient (\u201ca region or a part of the world to the east of a certain place; countries of Asia, the East (especially East Asia)\")"
+				],
+				"id": "orient-name"
+			}
+		]
+	},
+	{
+		"pos": "noun",
+		"heads": [{ "template_name": "en-noun" }],
+		"forms": [{ "form": "orients", "tags": ["plural"] }],
+		"wikipedia": ["Aci Castello", "Willem Blaeu"],
+		"sounds": [
+			{
+				"ipa": "/\u02c8\u0254\u02d0.\u0279\u026a.\u0259nt/",
+				"tags": ["Received Pronunciation"]
+			},
+			{
+				"ipa": "/\u02c8\u0254.\u0279i.\u0259nt/",
+				"tags": ["General American"]
+			},
+			{ "ipa": "/\u02c8\u0252.\u0279\u026a-/", "tags": ["General American"] },
+			{ "audio": "En-uk-orient.oga", "tags": ["RP"], "text": "Audio (RP)" }
+		],
+		"hyphenation": ["or\u2027i\u2027ent"],
+		"categories": ["American English"],
+		"word": "orient",
+		"lang": "English",
+		"lang_code": "en",
+		"senses": [
+			{
+				"glosses": [
+					"The part of the horizon where the sun first appears in the morning; the east."
+				],
+				"id": "orient-noun-xt3zh0tF"
+			},
+			{
+				"tags": ["broadly", "obsolete"],
+				"glosses": [
+					"A pearl originating from the Indian region, reputed to be of great brilliance; any pearl of particular beauty and value."
+				],
+				"id": "orient-noun-d6LWrIhb"
+			},
+			{
+				"tags": ["broadly"],
+				"glosses": ["The brilliance or colour of a high-quality pearl."],
+				"id": "orient-noun-sLZxjzlT"
+			}
+		]
+	}
+]
