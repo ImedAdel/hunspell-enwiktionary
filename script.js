@@ -1,7 +1,7 @@
 const fs = require("fs")
 const readline = require("readline")
 
-const path = "words.dict"
+const path = "words.dic"
 
 try {
 	fs.unlinkSync(path)
@@ -10,7 +10,7 @@ try {
 	console.error(err)
 }
 
-const stream = fs.createWriteStream("words.dict", { flags: "a" })
+const stream = fs.createWriteStream("words.dic", { flags: "a" })
 
 var rd = readline.createInterface({
 	input: fs.createReadStream("./en-dump.json"),
